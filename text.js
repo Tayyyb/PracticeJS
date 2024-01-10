@@ -45,3 +45,6 @@ else(a!=10)
 {
   console.log("number is not true")
 }
+"string"
+let  Number= 1223;
+let Boolean= true / false;
