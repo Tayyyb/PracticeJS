@@ -24,10 +24,13 @@ const redularUser = {
         }
     }
 }
+// const {email:E}= redularUser
+// console.log(E); is used for the object destructure method
 // console.log(redularUser.fullName.userfullname.firstname);
 
 let obj1={1:"0",2:"3"}
 let obj2={3:"B",4:"C"}
 let obj3={obj1,obj2}
-console.log(obj3);
+// console.log(obj3);
+
 
