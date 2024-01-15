@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: center;
+    justify-content: space-between;
+}
+.div1{
+    padding: 120px;
+    border: 2px solid black;
+    width: 20%;
+    background-color: gray;
+}
+.div2{
+    padding: 120px;
+    border: 2px solid black;
+    width: 20%;
+    background-color: brown;
+}
+.div3{
+    padding: 120px;
+    border: 2px solid black;
+    width: 20%;
+    background-color: burlywood;
+}
+.div4{
+    padding: 120px;
+    border: 2px solid black;
+    width: 20%;
+    background-color: chartreuse;
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding:2px 50px;
+}
