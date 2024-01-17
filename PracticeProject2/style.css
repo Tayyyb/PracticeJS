@@ -1,0 +1,10 @@
+.Container{
+    background-color: gray;
+    width: 30%;
+    margin: auto;
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
